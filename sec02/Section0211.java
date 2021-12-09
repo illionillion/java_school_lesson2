@@ -14,7 +14,7 @@ public class Section0211 {
     }
 
     public static void radixConv(int value) {
-        
+
         int bin[] =new int[16]; //あまりほ保存する
         int n=0; //桁数
 
